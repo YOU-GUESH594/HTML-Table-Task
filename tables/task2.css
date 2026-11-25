@@ -1,0 +1,13 @@
+th,td{
+    padding: center;
+    text-align: center;
+}
+.lab{
+    position: relative;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    height: 500px;
+}
